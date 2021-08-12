@@ -1,17 +1,17 @@
 {
   "id": 0,
   "category": {
-    "id": 0,
-    "name": "string"
+    "id": 1,
+    "name": "dog"
   },
-  "name": "doggie",
+  "name": "Snoopy",
   "photoUrls": [
     "string"
   ],
   "tags": [
     {
-      "id": 0,
-      "name": "string"
+      "id": 2021,
+      "name": "sta"
     }
   ],
   "status": "available"

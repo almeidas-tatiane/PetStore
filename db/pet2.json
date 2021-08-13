@@ -1,0 +1,18 @@
+{
+  "id": 1952121522,
+  "category": {
+    "id": 1,
+    "name": "AX934RT56"
+  },
+  "name": "Toto",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 20210812,
+      "name": "data"
+    }
+  ],
+  "status": "sold"
+}
